@@ -1,4 +1,5 @@
 import sys
+import mediapipe
 print("hello world")
 a = 1
 b = 2
@@ -7,4 +8,4 @@ print(c)
 e = [1,2,4,3]
 for f in e:
     print(f)
-sys.exit(135)
+sys.exit(0)
